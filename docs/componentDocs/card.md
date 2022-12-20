@@ -5,7 +5,7 @@
 ### 示例
 
 <!-- 这个是部署到github下的lollipope-ui仓库下 所以添加lollipope-ui  -->
-<l-card imgSrc='lollopope-ui/001.jpg' summary='card component'/>
+<l-card imgSrc='/lollipope-ui/001.jpg' summary='card component'/>
 
 ### 代码
 

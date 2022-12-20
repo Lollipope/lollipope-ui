@@ -1,6 +1,6 @@
 {
   "name": "lollipope-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "个人组件库LollipopeUI 搭建学习",
   "main": "dist/index.umd.js",
   "keywords": [
