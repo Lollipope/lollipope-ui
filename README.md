@@ -1,4 +1,4 @@
-# qin-ui 组件库
+# lollipope-ui 组件库
 
 #### 1.快速开始
 
