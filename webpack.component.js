@@ -10,12 +10,12 @@ const list = {}
 
 async function makeList(dirPath, list) {
   const files = glob.sync(`${dirPath}/**/index.js`)
-  //   console.log('files:', files)
+  console.log('files:', files)
   for (const file of files) {
     const component = file.split(/[/.]/)[2]
     list[component] = `./${file}`
   }
-  //   console.log(list)
+  console.log(list)
 }
 
 makeList('components/lib', list)

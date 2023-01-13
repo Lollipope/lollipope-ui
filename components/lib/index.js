@@ -1,9 +1,11 @@
 import LCard from './card'
 import LComp from './comp'
+import LButton from './button'
 
 const components = {
   LCard,
   LComp,
+  LButton,
 }
 
 const install = function (Vue) {

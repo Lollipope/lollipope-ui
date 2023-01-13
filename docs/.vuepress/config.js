@@ -8,6 +8,6 @@ module.exports = {
       { text: 'Github', link: 'https://lollipope.github.io/lollipope-ui/' },
       { text: 'Npm', link: 'https://www.npmjs.com/package/lollipope-ui' },
     ],
-    sidebar: ['/', '/componentDocs/card'],
+    sidebar: ['/', '/componentDocs/card', '/componentDocs/button'],
   },
 }

@@ -10,7 +10,7 @@
 ### 代码
 
 ```html
-<l-card imgSrc="/001.jpg" summary="card component" />
+<l-card imgSrc="/001.jpg" summary="card component.." />
 ```
 
 ### Attributes
