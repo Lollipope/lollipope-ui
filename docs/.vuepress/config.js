@@ -5,7 +5,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Github", link: "https://lollipope.github.io/lollipope-ui/" },
+      { text: "Github", link: "https://github.com/Lollipope/lollipope-ui" },
       { text: "Npm", link: "https://www.npmjs.com/package/lollipope-ui" },
     ],
     sidebar: [

@@ -17,7 +17,7 @@ import LUI from 'lollipope-ui'
 Vue.use(LUI)
 
 //按需引用
-import './lollipope-ui/dist/css/demo.css'
+import './lollipope-ui/dist/css/comp.css'
 import { LComp } from 'lollipope-ui'
 Vue.use(LComp)
 ```

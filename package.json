@@ -1,6 +1,6 @@
 {
   "name": "lollipope-ui",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "个人组件库LollipopeUI 搭建学习",
   "main": "dist/index.umd.js",
   "keywords": [
@@ -13,6 +13,7 @@
     "components",
     "dist"
   ],
+  "homepage": "https://lollipope.github.io/lollipope-ui/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "npm run build:lib & npm run build:css",
@@ -44,7 +45,7 @@
     "vue-loader": "^15.10.1",
     "vue-template-compiler": "^2.6.14",
     "vuepress": "^1.9.7",
-    "webpack": "^4.46.0",
+    "webpack": "^4.47.0",
     "webpack-cli": "^5.0.1"
   },
   "eslintConfig": {
